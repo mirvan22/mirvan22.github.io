@@ -1,0 +1,1 @@
+import{j as r,P as e,H as s,p as o,e as a}from"./index-CLTpRdhv.js";import{B as n}from"./Breadcrumbs-BkQu3W-Y.js";function t(){return r.jsxs(e,{sx:{p:"2rem",background:s(o.value.Color.Primary,.1),border:"none"},variant:"outlined",children:[r.jsx(a,{variant:"h6",children:"Dashboard"}),r.jsx(n,{separator:"-",children:r.jsx(a,{children:"Dashboard"})})]})}export{t as default};
